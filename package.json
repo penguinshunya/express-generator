@@ -1,0 +1,22 @@
+{
+  "name": "express-generator",
+  "version": "1.0.0",
+  "description": "express generator",
+  "scripts": {
+    "express": "express"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penguinshunya/express-generator.git"
+  },
+  "author": "penguinshunya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/penguinshunya/express-generator/issues"
+  },
+  "homepage": "https://blog.penguinshunya.org/",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-generator": "^4.16.0"
+  }
+}
